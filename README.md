@@ -3,6 +3,8 @@ Repository Code for...
 # Deep Convolutional Spiking Neural Networks and the Human Visual System
 ## An Honours Thesis
 
+For details on my thesis checkout the paper [here](https://www.lucasgomez.ca/static/media/Thesis...).
+
 #### Notebooks
 - [Colab for CSNN.ipynb](https://drive.google.com/file/d/1DOImlYxpAiElZ6QxTdFOvuz3UrWDFpj3/view?usp=sharing)
   - Used for training of Convolutional Spiking Neural Net
