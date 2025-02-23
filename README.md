@@ -12,7 +12,7 @@ For details on my thesis checkout the paper [here](https://www.lucasgomez.ca/sta
   - Used for training of Convolutional Neural Net
 - [Colab for COCOtoNSD.ipynb](./COCOtoNSD.ipynb)
   - Used to store overlap between CIFAR-10, NSD, and COCO datasets
-- [Colab for fMRI_Analysis.ipynb](./Colab for fMRI_Analysis.ipynb)
+- [Colab for fMRI_Analysis.ipynb](./Colab\ for\ fMRI_Analysis.ipynb)
   - Used for the brain similarity analysis between both models
 
 ### Sources used or adapted:
